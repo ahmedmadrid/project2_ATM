@@ -1,0 +1,4 @@
+﻿  a82_project2_ATM.cpp
+D:\Courses\CS_FOundations\C++\visual_studio_c++_repo\a82_project2_ATM\a82_project2_ATM.cpp(62,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Courses\CS_FOundations\C++\visual_studio_c++_repo\a82_project2_ATM\a82_project2_ATM.cpp(342,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  a82_project2_ATM.vcxproj -> D:\Courses\CS_FOundations\C++\visual_studio_c++_repo\a82_project2_ATM\x64\Debug\a82_project2_ATM.exe
